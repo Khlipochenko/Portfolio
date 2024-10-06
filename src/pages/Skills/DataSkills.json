@@ -1,0 +1,33 @@
+[
+    {
+        "name":"Sass",
+        "img":"https://sass-lang.com/assets/img/logos/logo.svg"
+    },
+
+    {
+        "name":"Bootstrap",
+        "img":"https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+    },
+    {
+        "name":"Html5",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"
+    },
+
+    {
+        "name":"react",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png"
+    },
+    {
+        "name":"js",
+        "img":"https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg"
+    },
+
+    {
+        "name":"css3",
+        "img":"https://www.thoughtco.com/thmb/8K6rUSGksWB0SR3tyckgNdnj9cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/css3-57b597e85f9b58b5c2b338de.png"
+    },
+    {
+        "name":"ts",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+    }
+]

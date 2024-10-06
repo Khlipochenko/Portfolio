@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "name": "Human Internal Organs",
+        "url": "https://khlipochenko.github.io/Test-Projekt/",
+        "img":"/organsSeite.png",
+        "description":"An educational site that explores the functions and anatomy of human internal organs, including the brain, lungs, heart, stomach, liver, kidneys, and intestines."
+    },
+    {
+        "id":"2",
+        "name": "Photo Gallery",
+        "url": "https://khlipochenko.github.io/Photo-Gallery-Project/",
+        "img":"/gallerySeite.png",
+        "description":"A personal project website about Iwan Aiwasowski, featuring his biography, a gallery of famous paintings, and a contact form for inquiries."
+    },
+    {
+        "id":"3",
+        "name": "To-Do List Manager",
+        "url": "https://khlipochenko.github.io/ToDo-liste/",
+        "img":"/toDoSeite.png",
+        "description":"A simple web application that allows users to create, complete, and delete tasks. Users can add tasks to their list, remove them, or mark them as completed. Tasks are saved in the browser's local storage, so they persist between sessions."
+    },
+    {
+        "id":"4",
+        "name": "Dog Breed Finder",
+        "url": "https://khlipochenko.github.io/dogsseite/",
+        "img":"dogsSeite.png",
+        "description":"This test website lets users search for dog breeds and view images. Type a breed to see matching names, then select one to display its images, fetched from the Dog API."
+    }
+
+]
